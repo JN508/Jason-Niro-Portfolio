@@ -1,2 +1,1 @@
-# jniro.github.io
-Portfolio
+# Portfolio
